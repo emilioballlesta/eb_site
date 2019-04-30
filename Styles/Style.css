@@ -1,0 +1,27 @@
+body{
+  background-color:white;
+}
+header{
+  background-color:rgb(218,85,82);
+}
+p{
+  color:rgb(64,64,64);
+}
+#emilio{
+  color:rgb(217,217,217);
+}
+h1{
+  color:white;
+}
+h2{
+  color:rgb(218,85,82);
+}
+ol{
+  color:rgb(64,64,64);
+}
+ul{
+  color:rgb(64,64,64);
+}
+.emilio-class{
+  color:rgb(218,85,82);
+}

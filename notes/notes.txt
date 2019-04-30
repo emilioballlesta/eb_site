@@ -1,0 +1,16 @@
+Title es el contenido que se utiliza en el titulo
+El contenido que va en head es el contenido que utiliza el navegador.
+Por regla, deberia haber solo un h1.
+a de Anchor es para links, y en # ponemos la referencia de donde queremos que tire
+img es para poner imagenes.
+CSS> hojas de calculo en cascada
+w3schools es la pagina de referencia de HTML
+Recordar que dentro de las etiquetas van los atributos
+Mientras mas desacoplado tengamos los archivos, mejor.
+Siempre gana la regla de mayor especificidad.
+A es para ir a un link.
+Link es para llamar a un documento.
+href utiliza rutas relativas.
+Tambien existen rutas absolutas.
+
+Etiqueta ul y ol. Son dos tipos de etiquetas para hacer listas.
